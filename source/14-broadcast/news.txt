@@ -1,0 +1,7 @@
+test;
+this is a news
+1 XXXXXXXXXXX
+2 XXXXXXXXXXX
+3 XXXXXXXXXXX
+4 XXXXXXXXXXX
+end news
