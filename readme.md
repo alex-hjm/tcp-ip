@@ -1,8 +1,4 @@
-## 简介
-TCP/IP 网络编程
-
 ## 环境
-vscode  
 ubuntu 20.04    
 gcc version 9.3.0
 
